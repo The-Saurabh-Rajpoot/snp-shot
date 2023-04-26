@@ -1,0 +1,29 @@
+.App{
+    width: 70vw;
+    text-align: center;
+    margin: 0px auto;
+
+}
+#titel{
+    margin: 50px 0px;
+    color: darkblue;
+}
+
+#logo{
+    width: 20px;
+    
+}
+
+.btnS{
+    background-color: darkblue;
+    color: white;
+    margin: 10px 10px;
+}
+.images-container{
+display: flexbox;
+}
+.resPics{
+    margin: 20px;
+    width: 250px;
+    height: 300px;
+}
