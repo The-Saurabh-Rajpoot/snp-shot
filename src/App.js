@@ -38,7 +38,7 @@ function App() {
       <h1 id='titel'>SnapShot</h1>
       <InputGroup className="mb-3">
         <Form.Control
-          placeholder="search"
+          placeholder="Type a keyword to search an image"
           aria-label="search"
           aria-describedby="basic-addon2"
           onChange={(e) => { setTag(e.target.value) }}
